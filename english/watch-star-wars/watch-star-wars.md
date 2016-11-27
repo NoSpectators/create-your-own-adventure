@@ -4,3 +4,6 @@ If you do not, Google "a long time ago in a galaxy far far away" right now.
 
 Would you like to know more?
 [Watch Honey Badger](../watch-honey-badger/watch-honey-badger.md)
+
+Yes I would like to know more?
+
